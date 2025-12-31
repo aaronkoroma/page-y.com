@@ -44,7 +44,7 @@ main a{
 }
 main ul{
     list-style-type: none;
-    margin:0;
+    width:80%;
 }
 main ul li{
     font-size: 30px;
