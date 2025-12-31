@@ -55,12 +55,14 @@ main ul li{
     background-color: #00bbff;
 }
 @media only screen and (max-width:600px){
+    main ul li{
     font-size: 30px;
     margin-top: 1%;
     margin-right: 5%;
     padding: 10px;
     color: white;
-    background-color: #00bbff;   
+    background-color: #00bbff;
+}
 }
 .whatsapp-name,.email-name,.call-name{
     text-decoration: none;
