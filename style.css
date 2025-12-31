@@ -52,6 +52,7 @@ main ul li{
     font-size: 30px;
     margin-top: 1%;
     color: white;
+    padding:10px;
     background-color: #00bbff;
 }
 .whatsapp-name,.email-name,.call-name{
