@@ -49,7 +49,6 @@ main ul{
 main ul li{
     font-size: 30px;
     margin-top: 1%;
-    margin-right: 3%;
     padding: 10px;
     color: white;
     background-color: #00bbff;
@@ -112,15 +111,6 @@ main hr{
 .ignore-form{
     color: lightgreen;
 }
-.menu-list{
-    list-style-type: none;
-    float: right;
-    margin-right: 2%;
-}
-.menu-list li{
-    display: inline;
-    margin-left: 20px;
-}   
 .founder-text{
     font-size: 16px;
     color: #333;
