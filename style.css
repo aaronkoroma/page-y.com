@@ -44,12 +44,11 @@ main a{
 }
 main ul{
     list-style-type: none;
-    margin-top: 5%;
+    margin:0;
 }
 main ul li{
     font-size: 30px;
     margin-top: 1%;
-    padding: 10px;
     color: white;
     background-color: #00bbff;
 }
