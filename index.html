@@ -4,7 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pagey</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        form input,form textarea{
+          font-size:21px;
+          border-radius:0px;
+        }
+        form input::placeholder{
+          font-size:21px;
+        }
+        @media only screen and (max-width:600px){
+        form input{
+          font-size:21px;
+          width:98%;
+        }
+        }
+        @media only screen and (max-width:600px){
+        form textarea{
+          font-size:21px;
+          width:98%;
+        }
+        }
+        
+        form button{
+          padding:10px;
+          font-size:16px;
+          background-color:#00bbff;
+          color:#ffffff;
+          border-radius:50px;
+        }
+    </style>
 </head>
 <body>
     <h1>The new social network [ Pagey ]</h1>
