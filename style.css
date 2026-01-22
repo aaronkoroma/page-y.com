@@ -1,1 +1,6 @@
-
+form input{
+  font-size:21px;
+}
+form input::placeholder{
+  font-size:21px;
+}
