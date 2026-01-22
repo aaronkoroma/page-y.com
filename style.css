@@ -6,5 +6,8 @@ form input::placeholder{
 }
 form button{
   padding:10px;
+  font-size:16px;
+  background-color:#00bbff;
+  color:#ffffff;
   border-radius:50px;
 }
