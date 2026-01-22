@@ -4,3 +4,7 @@ form input{
 form input::placeholder{
   font-size:21px;
 }
+form button{
+  padding:10px;
+  border-radius:50px;
+}
