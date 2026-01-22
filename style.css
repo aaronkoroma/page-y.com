@@ -5,7 +5,14 @@ form input::placeholder{
   font-size:21px;
 }
 @media only screen and (max-width:600px){
-form input,textarea{
+form input{
+  font-size:21px;
+  width:98%;
+}
+}
+@media only screen and (max-width:600px){
+form textarea{
+  font-size:21px;
   width:98%;
 }
 }
