@@ -1,5 +1,6 @@
 form input,form textarea{
   font-size:21px;
+  border-radius:0px;
 }
 form input::placeholder{
   font-size:21px;
